@@ -1,12 +1,10 @@
 {
   "development": {
     "apiUrl": "https://hectordevx.herokuapp.com",
-    "contentApiKey": "5a0c7e108e97a2a7586bead422",
-    "version": "v2"
+    "contentApiKey": "5a0c7e108e97a2a7586bead422"
   },
   "production": {
     "apiUrl": "https://hectordevx.herokuapp.com",
-    "contentApiKey": "5a0c7e108e97a2a7586bead422",
-    "version": "v2"
+    "contentApiKey": "5a0c7e108e97a2a7586bead422"
   }
 }
